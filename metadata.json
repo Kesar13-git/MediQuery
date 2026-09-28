@@ -1,0 +1,6 @@
+{
+  "name": "MediQuery",
+  "description": "An intelligent medical symptom checker and health information assistant for clinical entity extraction, triage risk evaluation, and health guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
