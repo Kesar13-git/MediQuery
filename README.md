@@ -1276,8 +1276,3 @@ REST API
    +
 Render Deployment
 ```
-
-The project demonstrates how Natural Language Processing can be applied to convert free-form symptom descriptions into structured, explainable information.
-
-Tell me **“saved”** once this complete README is in place. Then we'll do the Git commit/push in one clean step.
-```
